@@ -1,55 +1,58 @@
-# Libraries
+# libraries
 
 ### UI Kits
+ - Material UI
+ - React-Bootstrap
+ - Ant Design
+ - Blueprint
+ - Elastic UI
+ - and many more!
 
-- Material UI
-- React-Bootstrap
-- Ant Design
-- Blueprint
-- Elastic UI
-- and many more!
+### Common utility libraries
+ - moment.js (date/time formatting)
+ - lodash (general utilities like better sorting...)
 
-### Common Utility Libraries
-
-- moment (date/time formatting)
-- lodash (general utilities like better sorting...)
-
-### Cool Stuff
-
-- chartsjs (charts!)
-- D3 (more complex SVG-driven charts, written at UW)
-- mapbox (maps, geo stuff, `react-map-gl`)
-- react-animation (simple animations)
-- react-lottie (export AfterEffects animations)
+### Cool stuff
+ - Chartjs (charts!)
+ - D3 (more complex SVG-driven charts, written at UW)
+ - Mapbox (maps, geo stuff, `react-map-gl`)
+ - react-animation (simple animations)
+ - react-lottie (export AfterEffects animations)
 
 ### Real-time data
-
-- firebase.js
-- MQTT.js
-- socket.io
-- normal websockets (`new Websocket('url')`)
+ - firebase.js
+ - MQTT.js 
+ - socket.io
+ - normal websockets (`new Websocket('url')`)
 
 ### communicting with server
-
-- normal `fetch(url)`
-- axios
+ - normal `fetch(url)`
+ - axios
 
 ### state management
-
-- redux (super popular, I hate it)
-- mobx
-- react context
+ - redux (super popular, I hate it)
+ - mobx
+ - react context 
 
 ### forms
+ - formik
+ - yup (form validation)
+ - react-final-forms
 
-- formik
-- yup (form validation)
-- react-final-forms
+### super cool stuff
+ - Web Audio API
+ - audio: tone.js
+ - https://www.npmjs.com/package/react-speech-recognition
+ - Web Bluetooth API
+ - HTML5 Canvas 
+ - Games: https://phaser.io/
+ - SVG animations: https://maxwellito.github.io/vivus/
+ - SVGs in general are super cool!
 
 ### super-pro
+ - typescript! (`npm create-react-app my-app --template typescript`)
+ - react-native (build a native app!)
+ - Expo (for react-native) 
+ - Electron (build desktop apps with React!)
+ - `react-native-paper`: material UI for react-native
 
-- typescript! (`npm create-react-app my-app --template typescript`)
-- react-native (build a native app!)
-- Expo (for react-native)
-- Electron (build desktop apps with React!)
-- `react-native-paper`: material UI for react-native
